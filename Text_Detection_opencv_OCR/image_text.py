@@ -38,7 +38,7 @@ def perform_ocr(frame):
 # Mode: Image
 if args.mode == 'image':
     # If no path is provided, use the default 'test_images' folder
-    image_path = args.path if args.path else os.path.join(default_image_dir, 'test_image.jpg')
+    image_path = args.path if args.path else os.path.join(default_image_dir, 'test_image.png')
 
     # Load the image
     image = cv2.imread(image_path)
