@@ -75,6 +75,8 @@ This opens your default webcam and performs real-time OCR.
 - **--path:**
 (Optional) Specifies the path to the input file (image or video). If no path is provided, the program will default to using a test image or video from the test_images/ or test_videos/ directories.
 
+## Results
+![alt_text](https://github.com/krishnapriya-nynaru/Text-detection-opencv-easyocr/blob/main/Text_Detection_opencv_OCR/outputs/result_image.jpg)
 ## Acknowledgements
 [**EasyOCR:**](https://github.com/JaidedAI/EasyOCR) A powerful OCR library that supports over 80 languages.
 
