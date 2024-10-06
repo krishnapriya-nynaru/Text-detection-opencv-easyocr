@@ -17,7 +17,7 @@ This project demonstrates how to perform Optical Character Recognition (OCR) usi
 - [**Usage**](https://github.com/krishnapriya-nynaru/Text-detection-opencv-easyocr/tree/main?tab=readme-ov-file#usage)
 - [**Arguments**](https://github.com/krishnapriya-nynaru/Text-detection-opencv-easyocr/tree/main?tab=readme-ov-file#arguments)
 - [**Results**](https://github.com/krishnapriya-nynaru/Text-detection-opencv-easyocr/tree/main?tab=readme-ov-file#results)
-- [**References**]()
+- [**References**](https://github.com/krishnapriya-nynaru/Text-detection-opencv-easyocr/tree/main?tab=readme-ov-file#references)
 
 ## Introduction
 **Optical Character Recognition (OCR)** is the process of converting different types of documents, such as scanned paper documents, PDF files, or images, into editable and searchable data. In this project, we use the EasyOCR library, which is a deep learning-based OCR solution with support for over 80 languages.
