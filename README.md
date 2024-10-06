@@ -11,13 +11,13 @@ This project demonstrates how to perform Optical Character Recognition (OCR) usi
 **EasyOCR:** A deep learning-based OCR library that supports multiple languages and provides highly accurate text recognition.
 
 ### Table of Contents
-- Introduction
-- Technologies
-- Installation
-- Usage
-- Arguments
-- Results
-- Acknowledgements
+- [**Introduction**](https://github.com/krishnapriya-nynaru/Text-detection-opencv-easyocr/tree/main?tab=readme-ov-file#introduction)
+- [**Technologies**](https://github.com/krishnapriya-nynaru/Text-detection-opencv-easyocr/tree/main?tab=readme-ov-file#technologies)
+- [**Installation**](https://github.com/krishnapriya-nynaru/Text-detection-opencv-easyocr/tree/main?tab=readme-ov-file#installation)
+- [**Usage**](https://github.com/krishnapriya-nynaru/Text-detection-opencv-easyocr/tree/main?tab=readme-ov-file#usage)
+- [**Arguments**](https://github.com/krishnapriya-nynaru/Text-detection-opencv-easyocr/tree/main?tab=readme-ov-file#arguments)
+- [**Results**](https://github.com/krishnapriya-nynaru/Text-detection-opencv-easyocr/tree/main?tab=readme-ov-file#results)
+- [**References**]()
 
 ## Introduction
 **Optical Character Recognition (OCR)** is the process of converting different types of documents, such as scanned paper documents, PDF files, or images, into editable and searchable data. In this project, we use the EasyOCR library, which is a deep learning-based OCR solution with support for over 80 languages.
@@ -77,7 +77,7 @@ This opens your default webcam and performs real-time OCR.
 
 ## Results
 ![alt_text](https://github.com/krishnapriya-nynaru/Text-detection-opencv-easyocr/blob/main/Text_Detection_opencv_OCR/outputs/result_image.jpg)
-## Acknowledgements
+## References
 [**EasyOCR:**](https://github.com/JaidedAI/EasyOCR) A powerful OCR library that supports over 80 languages.
 
 [**OpenCV:**](https://opencv.org/) A popular computer vision library used for video and image processing.
